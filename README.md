@@ -1,2 +1,2 @@
 # quiz-program
-A little quiz program for training
+A little quiz java program for training
